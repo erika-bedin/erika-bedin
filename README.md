@@ -2,7 +2,7 @@
 # 🌷 Érika Bedin 🌷 
 
 ## 🎓 Formação e Experiência 🎓
-Sou uma profissional com vasta formação acadêmica e sólida experiência de mais de 20 anos na área de negócios. Meus títulos incluem doutorado em Produção Sustentável, mestrado em Engenharia de Produção e especialização em Administração. Durante minha trajetória, ocupei posições-chave em instituições renomadas, como a UFABC e a UFSCar, atuando como chefe de divisão e departamento, impulsionando a excelência em cada função desempenhada.
+Sou uma profissional com vasta formação acadêmica e sólida experiência de mais de 20 anos na área de negócios. Meus títulos incluem doutorado em Produção Sustentável, mestrado em Engenharia de Produção e especialização em Administração e Data Science. Durante minha trajetória, ocupei posições-chave em instituições renomadas, como a UFABC e a UFSCar, atuando como chefe de divisão e departamento, impulsionando a excelência em cada função desempenhada.
 
 ## 👩‍💻 Hard Skills 👩‍💻
 Durante minha carreira, desenvolvi habilidades técnicas de alto nível em diversas áreas, incluindo programação (HTML, CSS, Bootstrap, SQL, JavaScript), análise de dados (Power BI, Phyton, R) e computação em nuvem (Azure, AWS, Google e Oracle). Além disso, possuo sólidos conhecimentos em governança (ESG, Balanced Scorecard) e domino diversas metodologias ágeis (Agile, Scrum, Lean, Kanban, Design Thinking e Smart), possibilitando uma abordagem ágil e eficiente em meus projetos.
@@ -14,7 +14,7 @@ Minhas habilidades comportamentais (soft skills) são um diferencial importante 
 Sou movida pela tecnologia e pela busca constante por inovação, sempre empenhada em superar desafios e alcançar excelência. Vamos juntos em direção ao futuro!
 
 ### 💞️ Assuntos 💞️  
-#Tecnologia #Negócios #Inovação #AnáliseDeDados #MetodologiasÁgeis #Liderança #ExcelênciaTecnológica #Desafios #AprendizadoContínuo
+#Tecnologia #Negócios #BigData #Inovação #AnáliseDeDados #MetodologiasÁgeis #Liderança #ExcelênciaTecnológica #Desafios #AprendizadoContínuo
 
 📫 https://www.linkedin.com/in/erika-bedin/
 
